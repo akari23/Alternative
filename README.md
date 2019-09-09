@@ -1,6 +1,6 @@
 # Alternative
 Alternative is a visal novel game that include 3 mini games inside the story.
-Link download : 
+Link download : http://bit.ly/2m6esLF
 
 # Main Menu
 ![38014](https://user-images.githubusercontent.com/33738081/64513058-ef0ca980-d311-11e9-9527-b18b1320c39d.jpg)
